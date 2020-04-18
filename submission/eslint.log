@@ -1,0 +1,10 @@
+
+> assignment5-6@1.0.1 eslint C:\Users\Aldiyar Nurgazin\assignment05
+> eslint src/**/*.js
+
+
+C:\Users\Aldiyar Nurgazin\assignment05\src\script.js
+  4:3  warning  Unexpected alert  no-alert
+
+✖ 1 problem (0 errors, 1 warning)
+
